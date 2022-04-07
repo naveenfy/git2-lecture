@@ -24,8 +24,11 @@ git branch
 *master
 
 // To create branch from master
-git branch <branch-name>
+git branch ptweb4
 
 //To checkouout
-git checkout <branch-name>
+git checkout ptweb4
+
+/// As of now branch is available locally
+
 
