@@ -9,7 +9,7 @@ Notes:
 Add, commit, push:
 One time setups:
 1. git init
-2. git remote add origin https://github.com/naveenraju9/git2-lecture.git
+2. git remote add origin https://github.com/naveenraju9/git2-lecture
 
 Daily commands: 
 1. git add .
@@ -30,5 +30,7 @@ git branch ptweb4
 git checkout ptweb4
 
 /// As of now branch is available locally
+
+//Merge conflict example
 
 
